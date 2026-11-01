@@ -1,0 +1,10 @@
+# One Pexels search per line. publish.bat downloads one vertical clip per line
+# (2 per run) into this folder. Add or remove lines anytime.
+boat cruising sunset
+speedboat wake ocean
+marina boats dock
+fishing boat open water
+aerial boat turquoise water
+fuel pump nozzle
+florida mangroves boat
+waves ocean slow motion
